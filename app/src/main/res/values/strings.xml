@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mis Mapas</string>
+    <string name="irMapas">Ir a mis mapas</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="escoge">Escoge un lugar</string>
+    <string name="gueros">Taqueria Los Gueros</string>
+    <string name="metro">Metro Escuadron 201</string>
+    <string name="mercado">Mercado Escuadron 201</string>
+    <string name="portal">Portal Churubusco</string>
+</resources>
